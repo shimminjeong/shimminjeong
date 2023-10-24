@@ -5,6 +5,7 @@
 
 ### 🛠️ Tech stack <br>
 <img src="https://img.shields.io/badge/Java-F78C40?style=flat-square&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Python-6994CDEE?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
